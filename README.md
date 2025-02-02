@@ -4,12 +4,12 @@ Welcome to the Advanced Text-Based RPG System! ⚔️ This Python-based RPG brin
 
 ## 🚀 Features
 
-✅ **Entity, Player & Monster Classes**: Define characters with health, level, and experience. Players and monsters can attack, take damage, and level up.
-✅ **🎲 Randomized Damage**: Attacks deal random damage, making every battle unique and engaging!
-✅ **👜 Inventory System**: Collect and use powerful items like potions and weapons.
-✅ **📈 Experience & Leveling**: Gain XP by defeating monsters and level up for stronger stats!
-✅ **🧪 Item Usage**: Use potions to heal and equip weapons for battle enhancements.
-✅ **🕹️ Example Gameplay**: Engage in epic battles and watch your player grow stronger.
+✅ **Entity, Player & Monster Classes**: Define characters with health, level, and experience. Players and monsters can attack, take damage, and level up.  
+✅ 🎲 **Randomized Damage**: Attacks deal random damage, making every battle unique and engaging!  
+✅ 👜 **Inventory System**: Collect and use powerful items like potions and weapons.  
+✅ 📈 **Experience & Leveling**: Gain XP by defeating monsters and level up for stronger stats!  
+✅ 🧪 **Item Usage**: Use potions to heal and equip weapons for battle enhancements.  
+✅ 🕹️ **Example Gameplay**: Engage in epic battles and watch your player grow stronger.  
 
 ## 🔧 Installation
 
